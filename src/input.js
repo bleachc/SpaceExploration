@@ -2,7 +2,10 @@ export default class inputHandler {
 
     constructor(spaceship){
         document.addEventListener('keydown', (event) => {
-
+            /**
+             * Keycode is being deprecated
+             * https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode
+             */
             //65 A 68 D
             switch(event.keyCode){
                 case 65:
