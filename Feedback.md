@@ -30,4 +30,4 @@ I think the game was broken down into well defined chunks in order to reach a sp
 Do you have any recommendations for this group?
 
 
-I really like the polish, but when you brought the projects together you lost some of that. I think tightening that up would really help on presentation. Really impressed with this. Touches a lot of JavaScript features, with a lot of stuff not covered in the classroom. I really want to get a student group to review this as I think there will be a lot of take aways.
+I think looking into TypeScript would help out a lot with this group's apporach. It'll allow you to enforce interfaces and refactor a lot easier. I see I consistent GameObject structure being implemented, but changes to that structure will be costly without TypeScripts ease of refactoring. Overall this looks great, I can tell thought went into the architecture and that shows.
